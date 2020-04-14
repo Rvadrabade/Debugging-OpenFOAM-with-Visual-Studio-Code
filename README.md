@@ -73,8 +73,9 @@ I remember when I started learning OpenFOAM a few years back (in 2017), I wonder
 + To avoid all setting up manually, copy above `vscode` folder and replace or paste in your working directory then launch vscode as `code .` in terminal.
 
 ## References:
-+ VSCode
-+ OpenFOAM
++ [VSCode](https://code.visualstudio.com/)
++ [OpenFOAM](openfoam.com)
++ [gdbOF](https://gitlab.com/flowcrunchpublic/gdbof)
 + [Probabilistic Money](http://www.probabilisticmoney.com/?page_id=84)
 + OpenFOAM wiki
 + YouTube Tutorials
